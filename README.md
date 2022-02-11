@@ -20,4 +20,5 @@ All models are ran for 30 epochs and by default they train-evaluate on "atis.fol
 To train-evaluate on different data you need to set s['fold'] as 1, 2, ... manually from dictionary initialization of s, which is located at line 20 for each model on their respective .py source code.
 
 PS1: models LSTM, Improved require more than 10 minutes to run, whilst SimpleRNN takes around 5 minutes to complete, we recommend checking and running SimpleRNN.py.
+
 PS2: when ran, there will be plenty of warnings, just wait and it will run fine.

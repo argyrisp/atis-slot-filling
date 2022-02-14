@@ -10,7 +10,7 @@ This directory contains:
 5. Conference paper as "ATIS_slot_filling_paper.pdf"
 
 
-To run the model(s) use terminal, cd to project directory (Semantic) and type:
+To run the model(s) use terminal, cd to project directory (ATIS-slot-filling) and type:
 
 //python SimpleRNN.py// for Simple RNN model (yields ~92% score)
 //python LTSM_model.py// for LSTM model (yields ~93% score)
